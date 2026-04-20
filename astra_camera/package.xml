@@ -26,7 +26,7 @@
   <depend>libusb-1.0</depend>
   <depend>libuvc-dev</depend>
   <depend>message_filters</depend>
-  <depend>nlohmann-json3-dev</depend>
+  <depend>nlohmann-json-dev</depend>
   <depend>rclcpp_components</depend>
   <depend>rclcpp</depend>
   <depend>sensor_msgs</depend>
